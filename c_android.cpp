@@ -950,8 +950,6 @@ c_android::c_android ( const std::string& _id )
 	m_iMusicVolume = 0;
 	m_iBatteryLevel = 0;
 	m_bScreenAwake = false;
-	m_szUsbId = "";
-	m_szWifiId = "";
 	m_szWindowName = "";
 	m_iResolutionX = 0;
 	m_iResolutionY = 0;
